@@ -1,0 +1,35 @@
+h1 {
+    color:whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header { 
+    background-color: rgb(253, 115, 122);
+    display:flex; 
+    justify-content: space-between;
+}
+
+.grid {
+    display:flex; 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer { 
+    display:flex; 
+    justify-content: flex-end;
+}
+
+p {
+    text-align: center;
+    font-family: cursive;
+}
+
+h2 {
+    text-align: center;
+    font-family: cursive;
+}
+
+body { 
+    background-color: bisque;
+}
